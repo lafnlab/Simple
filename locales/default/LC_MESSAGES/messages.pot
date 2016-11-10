@@ -1,0 +1,194 @@
+msgid "MAINTITLE"
+msgstr ""
+
+msgid "SIMPLEMEDIAMANAGER"
+msgstr ""
+
+msgid "PEOPLE"
+msgstr ""
+
+msgid "GMBHS"
+msgstr ""
+
+msgid "LIVRES"
+msgstr ""
+
+msgid "VIDEO"
+msgstr ""
+
+msgid "AUDIO"
+msgstr ""
+
+msgid "IMAGES"
+msgstr ""
+
+msgid "AWARDS"
+msgstr ""
+
+msgid "LANDS"
+msgstr ""
+
+msgid "ADMIN"
+msgstr ""
+
+msgid "TAGS"
+msgstr ""
+
+msgid "SEARCH"
+msgstr ""
+
+msgid "BUILTWITH"
+msgstr ""
+
+msgid "ADMINPAGE"
+msgstr ""
+
+msgid "ADDCOLLECTION"
+msgstr ""
+
+msgid "ADDPERSON"
+msgstr ""
+
+msgid "ADDLIVRE"
+msgstr ""
+
+msgid "ADDVIDEO"
+msgstr ""
+
+msgid "ADDAUDIO"
+msgstr ""
+
+msgid "ADDIMAGE"
+msgstr ""
+
+msgid "ADDAWARD"
+msgstr ""
+
+msgid "ADDLAND"
+msgstr ""
+
+msgid "ADDGMBH"
+msgstr ""
+
+msgid "UPLOADFILE"
+msgstr ""
+
+msgid ""
+msgstr ""
+
+msgid ""
+msgstr ""
+
+msgid ""
+msgstr ""
+
+msgid ""
+msgstr ""
+
+msgid ""
+msgstr ""
+
+msgid ""
+msgstr ""
+
+msgid ""
+msgstr ""
+
+msgid ""
+msgstr ""
+
+msgid ""
+msgstr ""
+
+msgid ""
+msgstr ""
+
+msgid ""
+msgstr ""
+
+msgid ""
+msgstr ""
+
+msgid ""
+msgstr ""
+
+msgid ""
+msgstr ""
+
+msgid ""
+msgstr ""
+
+msgid ""
+msgstr ""
+
+msgid ""
+msgstr ""
+
+msgid ""
+msgstr ""
+
+msgid ""
+msgstr ""
+
+msgid ""
+msgstr ""
+
+msgid ""
+msgstr ""
+
+msgid ""
+msgstr ""
+
+msgid ""
+msgstr ""
+
+msgid ""
+msgstr ""
+
+msgid ""
+msgstr ""
+
+msgid ""
+msgstr ""
+
+msgid ""
+msgstr ""
+
+msgid ""
+msgstr ""
+
+msgid ""
+msgstr ""
+
+msgid ""
+msgstr ""
+
+msgid ""
+msgstr ""
+
+msgid ""
+msgstr ""
+
+msgid ""
+msgstr ""
+
+msgid ""
+msgstr ""
+
+msgid ""
+msgstr ""
+
+msgid ""
+msgstr ""
+
+msgid ""
+msgstr ""
+
+msgid ""
+msgstr ""
+
+msgid ""
+msgstr ""
+
+msgid ""
+msgstr ""
